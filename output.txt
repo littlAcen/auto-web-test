@@ -1,0 +1,48 @@
+Versuche, zu navigieren: http://www.paypal.com/signin
+Erfolgreich zu http://www.paypal.com/signin navigiert
+Fehler beim Finden des Benutzernamen-Feldes mit Selektor: ('name', 'username')
+Grund: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010cb80d28 chromedriver + 4996392
+1   chromedriver                        0x000000010cb785ea chromedriver + 4961770
+2   chromedriver                        0x000000010c71bd10 chromedriver + 388368
+3   chromedriver                        0x000000010c76830f chromedriver + 701199
+4   chromedriver                        0x000000010c7683f1 chro...
+Fehler beim Finden des Benutzernamen-Feldes mit Selektor: ('name', 'email')
+Grund: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010cb80d28 chromedriver + 4996392
+1   chromedriver                        0x000000010cb785ea chromedriver + 4961770
+2   chromedriver                        0x000000010c71bd10 chromedriver + 388368
+3   chromedriver                        0x000000010c76830f chromedriver + 701199
+4   chromedriver                        0x000000010c7683f1 chromed...
+Fehler beim Finden des Benutzernamen-Feldes mit Selektor: ('id', 'username')
+Grund: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010cb80d28 chromedriver + 4996392
+1   chromedriver                        0x000000010cb785ea chromedriver + 4961770
+2   chromedriver                        0x000000010c71bd10 chromedriver + 388368
+3   chromedriver                        0x000000010c76830f chromedriver + 701199
+4   chromedriver                        0x000000010c7683f1 chrome...
+Benutzername-Feld erkannt mit Selektor: ('id', 'email')
+Fehler beim Finden des Passwort-Feldes mit Selektor: ('name', 'password')
+Grund: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010cb80d28 chromedriver + 4996392
+1   chromedriver                        0x000000010cb785ea chromedriver + 4961770
+2   chromedriver                        0x000000010c71bd10 chromedriver + 388368
+3   chromedriver                        0x000000010c76830f chromedriver + 701199
+4   chromedriver                        0x000000010c7683f1 chromedri...
+Passwort-Feld erkannt mit Selektor: ('id', 'password')
+Login-Button erkannt mit Selektor: ('name', 'login')
+Fehler beim Verarbeiten der URL: http://www.paypal.com/signin
+Grund: Message: element not interactable
+  (Session info: chrome=129.0.6668.59)
+Stacktrace:
+0   chromedriver                        0x000000010cb80d28 chromedriver + 4996392
+1   chromedriver                        0x000000010cb785ea chromedriver + 4961770
+2   chromedriver                        0x000000010c71bb5d chromedriver + 387933
+3   chromedriver                        0x000000010c762308 chromedriver + 676616
+4   chromedriver ...
+Versuche, zu navigieren: http://user.huami.com/reset-password/1.0.0/index.html
+Erfolgreich zu http://user.huami.com/reset-password/1.0.0/index.html navigiert
